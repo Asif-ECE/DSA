@@ -9,7 +9,7 @@
 # Return the total number of provinces.
 
 
-class Solution:
+class Solution: #Done through Encapsulation
     
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
         n = len(isConnected)
